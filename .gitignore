@@ -1,0 +1,19 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.egg-info/
+
+# Ignore log and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore Git ignore itself 
+!.gitignore
+
+# Ignore generated documentation
+docs/
