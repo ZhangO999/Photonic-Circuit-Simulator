@@ -19,6 +19,7 @@ This is a **Python-based photonic circuit simulation**, designed to model the mo
 
 
 #### Example Usage
+```python
 $ python3 run.py
 Creating circuit board...
 > #18 6
