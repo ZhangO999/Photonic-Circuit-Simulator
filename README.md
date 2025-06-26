@@ -1,7 +1,7 @@
 # Photonic Circuit Simulator
 
 ## Overview
-This is a **Python-based photonic circuit simulation**, designed to model the movement of photons through an interactive circuit of emitters, receivers, and mirrors. The project was developed as part of the assignment for the INFO1110 course at **The University of Sydney**. Users can use the provided input files to modify simulation parameters. 
+This is a **Python-based photonic circuit simulation**, designed to model the movement of photons through an interactive circuit of emitters, receivers, and mirrors. Users can use the provided input files to modify simulation parameters. 
 
 ## Features
 * **Circuit Board Setup** – Users can define a circuit grid and place emitters, receivers, and mirrors.  
